@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Kaushan;
+    src: url("fonts/kashan/KaushanScript-Regular.ttf");
+}
+
+
+
+/* h1{
+    background-color: aqua;
+}
+ */
+
+p{
+    /* font-family:Kaushan ; */
+    font-weight: 1000; /*600-1000*/
+    font-style: oblique;
+    text-transform: lowercase;
+
+}
+
+a{
+    text-decoration: line-through;
+    font-size: 60px;
+    color: deeppink;
+    background-color: aqua;
+}
+/* p{
+    line-height: 100px;
+    word-spacing: 100px;
+    letter-spacing: 100px;
+} */
+
+.union{
+    background-color: brown;
+}
+.boss{
+    color: blueviolet;
+}
+.total{
+    font-size: 50px;
+}
